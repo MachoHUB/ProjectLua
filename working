@@ -1,4 +1,4 @@
-wait("7")
+wait("15")
 print("suck")
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MachoHUB/machonachoscript/refs/heads/main/code"))()
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/MachoHUB/ProjectLua/refs/heads/main/working"))()')
