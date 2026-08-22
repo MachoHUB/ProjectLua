@@ -1,3 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/jY4Cv3bB/raw"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/MachoHUB/machonachoscript/refs/heads/main/code"))()
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/MachoHUB/ProjectLua/refs/heads/main/working"))()')
